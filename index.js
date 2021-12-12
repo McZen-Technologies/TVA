@@ -8,8 +8,8 @@ class TVA {
 
 		if (!regex.test(this.value)) return false
     
-    const siren = +this.value.slice(4, 13)
-    const cle = +this.value.slice(2, 4)
+		const siren = +this.value.slice(4, 13)
+		const cle = +this.value.slice(2, 4)
 		const ctrlKey = (12 + 3 * (siren % 97)) % 97
     
 		return cle == ctrlKey
