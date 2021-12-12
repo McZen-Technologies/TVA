@@ -1,0 +1,22 @@
+{
+  "name": "tva",
+  "version": "1.0.0",
+  "description": "French VAT Number format validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McZen-Technologies/TVA.git"
+  },
+  "keywords": [
+    "vat"
+  ],
+  "author": "McZEN Technologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/McZen-Technologies/TVA/issues"
+  },
+  "homepage": "https://github.com/McZen-Technologies/TVA#readme"
+}
