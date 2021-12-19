@@ -1,6 +1,6 @@
 {
   "name": "tva",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "French VAT Number format validator",
   "main": "index.js",
   "scripts": {
